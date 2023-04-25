@@ -1,0 +1,69 @@
+
+body{
+    margin: 0;
+    margin-bottom: 0;
+    padding: 0;
+    border: 0;
+    background-image: url("../img/playa.avif");
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    background-color: blue;
+    padding: 2em
+    ;
+
+}
+.nav__item{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 1em;
+    
+}
+main{
+   
+    border: green 5px solid;
+    margin: 5em;
+   margin-left: 20em;
+   margin-right: 20em;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+section{
+    
+    padding: 1em;
+    margin-right: 30em;
+    background-color: grey;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.formulario2__when{
+    display: inline-block;
+    margin-right: 2em;
+}
+
+.formulario2--to{
+    margin-left: 7.5em;
+}
+
+
+
+
+.formulario3--how{
+margin-right: 1em;
+margin-left: 1em;
+}
+.formulario3--how{
+    margin-left: 1em;
+}
+
+.footer_texto{
+    margin-top: 3em;
+    background-color: rgb(30, 17, 224);
+    padding: 2em;
+    margin-bottom: 0;
+   
+}
